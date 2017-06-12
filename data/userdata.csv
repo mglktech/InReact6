@@ -1,0 +1,4 @@
+id,Pin,LightName,LedsAmount,Pattern,Mode,BassSliderValue,TrebSliderValue,TrebArraySize,MulBright,MulColor,MulSat,LowPass
+0,12,Long,170,1,1,2,1,2,1.3488371,1.8837209,255.0,0
+0,11,Skull,4,1,1,30,4,30,1.8837209,0.60465115,0.0,0
+0,10,Ambient,30,1,1,15,4,15,2.0,2.0,250.17441,0
